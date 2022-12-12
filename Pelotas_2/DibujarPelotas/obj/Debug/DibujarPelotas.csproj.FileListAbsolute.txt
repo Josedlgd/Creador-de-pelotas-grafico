@@ -1,0 +1,40 @@
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\bin\Debug\DibujarPelotas.exe.config
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\bin\Debug\DibujarPelotas.exe
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\bin\Debug\DibujarPelotas.pdb
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.csprojAssemblyReference.cache
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.Form1.resources
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.Properties.Resources.resources
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.GenerateResource.cache
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.CoreCompileInputs.cache
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.exe
+C:\Users\j_ant\OneDrive - Universidad Autonoma de San Luis Potosi - UASLP\6° Semestre\Interfaces gráficas con aplicaciones\1° Parcial\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.pdb
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\bin\Debug\DibujarPelotas.exe.config
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\bin\Debug\DibujarPelotas.exe
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\bin\Debug\DibujarPelotas.pdb
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.csprojAssemblyReference.cache
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.Form1.resources
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.Properties.Resources.resources
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.GenerateResource.cache
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.exe
+C:\Users\user\Downloads\DibujarPelotas\DibujarPelotas\obj\Debug\DibujarPelotas.pdb
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\bin\Debug\DibujarPelotas.exe.config
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\bin\Debug\DibujarPelotas.exe
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\bin\Debug\DibujarPelotas.pdb
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.Form1.resources
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.Properties.Resources.resources
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.exe
+C:\Users\user\Downloads\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.pdb
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\bin\Debug\DibujarPelotas.exe.config
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\bin\Debug\DibujarPelotas.exe
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\bin\Debug\DibujarPelotas.pdb
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.Form1.resources
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.Properties.Resources.resources
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.exe
+C:\Users\Usuario\Documents\uni\r\Pelotas_2\DibujarPelotas\obj\Debug\DibujarPelotas.pdb
